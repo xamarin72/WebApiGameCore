@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.dotnet_rpg.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\pmaxim\source\repos\dotnet_rpg\.idea\.idea.dotnet_rpg.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
